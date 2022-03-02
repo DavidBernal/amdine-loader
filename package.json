@@ -17,6 +17,7 @@
   "dependencies": {
     "@types/node": "^17.0.21",
     "amdine": "^1.3.0",
-    "globby": "^13.1.1"
+    "globby": "^13.1.1",
+    "typescript": "^4.6.2"
   }
 }
